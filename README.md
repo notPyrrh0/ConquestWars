@@ -1,2 +1,4 @@
 # ConquestWars
-An alternate siege plugin for Towny
+An alternate siege plugin for Towny. 
+
+Still in development!
